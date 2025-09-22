@@ -5,6 +5,7 @@ Small Playwright Test project that automates the "Create Transport Request" flow
 ## Setup
 
 - Use `make install` to install testing enviroment
+    - If you are missing make, you can make installation with `npm install`, `npx playwright install` and later test using only `npx playwright` with its arguments 
 - Fill variable values in `.env` (or set env variables directly)
    
 ## Usage: 
