@@ -33,4 +33,4 @@ uninstall:
 	rm -rf node_modules/ package-lock.json
 
 zip:
-	zip -r tests utils .env.example Makefile package.json playwright.config.ts README.md tsconfig.json
+	zip -r assigment.zip tests utils .env.example Makefile package.json playwright.config.ts README.md tsconfig.json
