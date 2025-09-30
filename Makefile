@@ -5,7 +5,7 @@ endif
 
 PW=npx playwright
 
-.PHONY: all test debug list report install clean tests/%
+.PHONY: all test debug list report trace install uninstall zip
 
 all: test
 
